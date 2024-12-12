@@ -1,0 +1,45 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body{
+    background: #cb8acd;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    min-height: 100vh;
+    margin: 0;
+}
+.cointainer{
+    margin: 30px auto;
+    width: 350px;
+}
+h3{
+    color: #430045;
+    text-align: center;
+    margin: 20px;
+    font-size: 64px;
+}
+input[type="text"]{
+    border: 1px solid #dedede;
+    border-radius: 2px;
+    text-align: center;
+    display: block;
+    font-size: 16px;
+    padding: 10px;
+    width: 100%;
+    padding: 10px;
+}
+.btn{
+    background-color: red;
+    cursor: pointer;
+    color: #fff;
+    display: block;
+    margin: 10px 0 30px;
+    padding: 10px;
+    font-size: 16px;
+    width: 100%;
+}
