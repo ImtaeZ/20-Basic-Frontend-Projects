@@ -2,7 +2,7 @@
 
 | No |                   Project             |Live Preview|
 |:----:|:------------------------------------------:|:-----------:|
-|   01  | [Click to Copy](https://github.com/ImtaeZ/20-Basic-Frontend-Projects/tree/main/ClicktoCopy))|[Live Preview](https://codepen.io/kongruksiamstudio/full/xxoOPwX)|
+|   01  | [Click to Copy](https://github.com/ImtaeZ/20-Basic-Frontend-Projects/tree/main/ClicktoCopy)|[Live Preview](https://codepen.io/kongruksiamstudio/full/xxoOPwX)|
 |   02  | [Clock Angry/Calm Mode](https://github.com/kongruksiamza/javascript-projects/tree/main/ClockLightDarkMode)|[Live Preview](https://codepen.io/kongruksiamstudio/full/wvLWPKL)|
 |   03  | [Input Character Count](https://github.com/kongruksiamza/javascript-projects/tree/main/InputCharacterCount)|[Live Preview](https://codepen.io/kongruksiamstudio/full/KKjMyVd)|
 |   04  | [Increment Counter](https://github.com/kongruksiamza/javascript-projects/tree/main/IncrementCounter)|[Live Preview](https://codepen.io/kongruksiamstudio/full/NWZrwNW)|
