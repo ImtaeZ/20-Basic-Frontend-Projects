@@ -5,8 +5,8 @@
 |   01  | [Click to Copy](https://github.com/ImtaeZ/20-Basic-Frontend-Projects/tree/main/ClicktoCopy)|[Live Preview](https://codepen.io/kongruksiamstudio/full/xxoOPwX)|
 |   02  | [Clock Angry/Calm Mode](https://github.com/ImtaeZ/20-Basic-Frontend-Projects/tree/main/ClockCalmAngryMode)|[Live Preview](https://codepen.io/kongruksiamstudio/full/wvLWPKL)|
 |   03  | [Input Character Count](https://github.com/ImtaeZ/20-Basic-Frontend-Projects/tree/main/InputCharCount)|[Live Preview](https://codepen.io/kongruksiamstudio/full/KKjMyVd)|
-|   04  | [Increment Counter](https://github.com/kongruksiamza/javascript-projects/tree/main/IncrementCounter)|[Live Preview](https://codepen.io/kongruksiamstudio/full/NWZrwNW)|
-|   05  | [Modal & Popup](https://github.com/kongruksiamza/javascript-projects/tree/main/ModalPopup)|[Live Preview](https://codepen.io/kongruksiamstudio/full/ZEdOaWB)|
+|   04  | [Increment Counter](https://github.com/ImtaeZ/20-Basic-Frontend-Projects/tree/main/IncrementCounter)|[Live Preview](https://codepen.io/kongruksiamstudio/full/NWZrwNW)|
+|   05  | [Modal & Popup](https://github.com/ImtaeZ/20-Basic-Frontend-Projects/tree/main/Popup)|[Live Preview](https://codepen.io/kongruksiamstudio/full/ZEdOaWB)|
 |   06  | [Progress Indicator](https://github.com/kongruksiamza/javascript-projects/tree/main/PageScroll-Indicator)|[Live Preview](https://codepen.io/kongruksiamstudio/full/gONMXrE)|
 |   07  | [Vowels Counting](https://github.com/kongruksiamza/javascript-projects/tree/main/VowelCounting)|[Live Preview](https://codepen.io/kongruksiamstudio/full/JjQKOKM)|
 |   08  | [Scroll To Top](https://github.com/kongruksiamza/javascript-projects/tree/main/ScrollToTop)|[Live Preview](https://codepen.io/kongruksiamstudio/full/PorzOGv)|
