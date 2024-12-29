@@ -8,5 +8,5 @@
 |   04  | [Increment Counter](https://github.com/ImtaeZ/20-Basic-Frontend-Projects/tree/main/IncrementCounter)|[Live Preview]|
 |   05  | [Modal & Popup](https://github.com/ImtaeZ/20-Basic-Frontend-Projects/tree/main/Popup)|[Live Preview]|
 |   06  | [Progress Indicator](https://github.com/ImtaeZ/20-Basic-Frontend-Projects/tree/main/PageScrollindicator)|[Live Preview]|
-|   07  | [Vowels Counting](https://github.com/kongruksiamza/javascript-projects/tree/main/VowelCounting)|[Live Preview]|
+|   07  | [Vowels Counting](https://github.com/ImtaeZ/20-Basic-Frontend-Projects/tree/main/VowelCounter)|[Live Preview]|
 |   08  | [Scroll To Top](https://github.com/kongruksiamza/javascript-projects/tree/main/ScrollToTop)|[Live Preview]|
