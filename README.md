@@ -10,3 +10,4 @@
 |   06  | [Progress Indicator](https://github.com/ImtaeZ/20-Basic-Frontend-Projects/tree/main/PageScrollindicator)|[Live Preview]|
 |   07  | [Vowels Counting](https://github.com/ImtaeZ/20-Basic-Frontend-Projects/tree/main/VowelCounter)|[Live Preview]|
 |   08  | [Scroll To Top](https://github.com/kongruksiamza/javascript-projects/tree/main/ScrollToTop)|[Live Preview]|
+|   09  | [Password Visibility Toggle](https://github.com/ImtaeZ/20-Basic-Frontend-Projects/tree/main/PasswordVisibleToggle)|[Live Preview]|
