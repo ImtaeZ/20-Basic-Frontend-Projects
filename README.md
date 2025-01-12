@@ -13,3 +13,4 @@
 |   09  | [Password Visibility Toggle](https://github.com/ImtaeZ/20-Basic-Frontend-Projects/tree/main/PasswordVisibleToggle)|[Live Preview]|
 |   10  | [Image Menu Popup](https://github.com/ImtaeZ/20-Basic-Frontend-Projects/tree/main/Image%20Popup)|[Live Preview]|
 |   11  | [Sticky Navigation](https://github.com/ImtaeZ/20-Basic-Frontend-Projects/tree/main/StickyNavi)|[Live Preview]|
+|   12  | [Random Luck](https://github.com/ImtaeZ/20-Basic-Frontend-Projects/tree/main/RandomLuck)|[Live Preview]|
