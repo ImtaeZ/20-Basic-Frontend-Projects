@@ -14,3 +14,4 @@
 |   10  | [Image Menu Popup](https://github.com/ImtaeZ/20-Basic-Frontend-Projects/tree/main/Image%20Popup)|[Live Preview]|
 |   11  | [Sticky Navigation](https://github.com/ImtaeZ/20-Basic-Frontend-Projects/tree/main/StickyNavi)|[Live Preview]|
 |   12  | [Random Luck](https://github.com/ImtaeZ/20-Basic-Frontend-Projects/tree/main/RandomLuck)|[Live Preview]|
+|   13  | [Sound Board](https://github.com/ImtaeZ/20-Basic-Frontend-Projects/tree/main/SoundBoard)|[Live Preview]|
