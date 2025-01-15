@@ -2,7 +2,7 @@
 
 | No |                   Project             |Live Preview|
 |:----:|:------------------------------------------:|:-----------:|
-|   01  | [Click to Copy](https://github.com/ImtaeZ/20-Basic-Frontend-Projects/tree/main/ClicktoCopy)|[Live Preview]|
+|   01  | [Click to Copy](https://github.com/ImtaeZ/20-Basic-Frontend-Projects/tree/main/ClicktoCopy)|[[CLICK TO COPY PROJECT]](https://clicktocopy-killerqueen.netlify.app/)|
 |   02  | [Clock Angry/Calm Mode](https://github.com/ImtaeZ/20-Basic-Frontend-Projects/tree/main/ClockCalmAngryMode)|[Live Preview]|
 |   03  | [Input Character Count](https://github.com/ImtaeZ/20-Basic-Frontend-Projects/tree/main/InputCharCount)|[Live Preview]|
 |   04  | [Increment Counter](https://github.com/ImtaeZ/20-Basic-Frontend-Projects/tree/main/IncrementCounter)|[Live Preview]|
