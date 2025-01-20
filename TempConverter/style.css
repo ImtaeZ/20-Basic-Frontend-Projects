@@ -1,0 +1,34 @@
+*{
+    box-sizing: border-box;
+}
+body{
+    background: darkblue;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    overflow: hidden;
+    height: 100vh;
+    margin: 0;
+}
+h1{
+    color: aliceblue;
+}
+.Celcius{
+    color: red;
+}
+.Farenheit{
+    color: aqua;
+}
+.Kelvin{
+    color: greenyellow;
+}
+input[type="text"]{
+    display: block;
+    font-size: 25px;
+    border: 4px solid black;
+    border-radius: 3px;
+    padding: 3px;
+    width: 100%;
+    outline: none;
+}
